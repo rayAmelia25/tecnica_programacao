@@ -1,2 +1,4 @@
 Arquivo inicial do diretorio
 git init
+
+de novo
